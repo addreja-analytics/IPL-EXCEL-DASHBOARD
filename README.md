@@ -1,2 +1,14 @@
-# ADDREJA-CHAKRABORTY
-MSc Mathematics graduate with a passion for data analytics . Skilled in Excel, SQL, Power BI, Python, R, tableau, ML . Eager to apply analytical and problem-solving skills to derive actionable insights and drive data-driven decisions.
+I’m excited to share my latest Power BI project, where I analyzed the Netflix userbase revenue across different countries, genders, devices, and subscription types.
+📊Key_Insights:
+✅ The United States generates the highest revenue among 10 countries
+✅Average subscription duration
+✅Gender-based revenue .
+✅Basic plan of total subscriptions.
+✅Popular streaming device
+✅Users aged  who contribute the most revenue
+🛠️ Tools & _Skills Used:
+✔️ Power BI
+✔️Power Query for data transformation
+✔️DAX 
+✔️Dashboard design & storytelling 
+
